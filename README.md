@@ -1,4 +1,4 @@
-# Movie-Recommendation-system
+# Movie Recommendation system
 This is a content based filtering movie recommendation project, that predicts which movies are to be recommended to a user based on their previously watched and most rated movies.
 
 # Datasets used
